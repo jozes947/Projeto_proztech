@@ -24,4 +24,4 @@ elif (quant_rodas >= 4 and quant_viajantes > 8):
 elif (quant_rodas >= 4 and peso > 6000):
     print("Sua categoria é E")
 else:
-    print("Achar categoria")
+    print("Você precisa de um veículo categoria E")
